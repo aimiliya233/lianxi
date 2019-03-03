@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>标题</title>
+<meta charset="UTF-8">
+<style></style>
+<body>
+<h1>标题</h1>
+<h2>标题2</h2>
+<a href="www.baidu.com" target="_blank">百度一下，你就知道</a>
+<img src="./">
+<div>div元素</div>
+<p>段落</p>
+<span>上标<sup>2</sup></span>
+<span>下标<sub>2</sub></span>
+
+</body>
+</head>
+</html>
